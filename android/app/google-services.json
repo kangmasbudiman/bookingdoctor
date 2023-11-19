@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404307997188",
+    "project_id": "bookingdoktor-3b967",
+    "storage_bucket": "bookingdoktor-3b967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404307997188:android:a7c7d07c0bcb365b15fb51",
+        "android_client_info": {
+          "package_name": "com.mycompany.bokingdoctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnuTjLw3ditX1iQJD_W7vW1jt9uq9lg14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
